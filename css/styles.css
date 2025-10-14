@@ -7,10 +7,15 @@
 body {
 	font-family: "Roboto", "BBH Sans Bogle", sans-serif;
     background: black;
+	margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #08CB00;
+}
+
+h2 {
+	margin-top: 0;
 }
 
 h2.title {
@@ -34,6 +39,11 @@ ul li{
 header, footer {
     background: #367A25;
     text-align: center;
+}
+
+.contact-info a {
+	padding: 10px; 
+	display: inline-block;
 }
 
 header h1, header h2, footer h2 {
