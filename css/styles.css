@@ -1,0 +1,61 @@
+/* Color Palette
+# - 08CB00
+# - 367A25
+# - 000000
+# - EEEEEE
+*/
+body {
+	font-family: "Roboto", "BBH Sans Bogle", sans-serif;
+    background: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #08CB00;
+}
+
+h2.title {
+	font: 1.8em, "BBH Sans Bogle", sans-serif;
+}
+
+p {
+    color: white;
+}
+
+ul li{
+    color: white;
+}
+
+header, footer {
+    background: #367A25;
+    text-align: center;
+}
+
+header h1, header h2, footer h2 {
+    color: white;
+}
+
+.flowRight {
+	float: right;
+}
+
+.flowLeft {
+	float: left;
+}
+
+section.Work {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+section.Education {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
