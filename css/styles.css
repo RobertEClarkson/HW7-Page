@@ -17,6 +17,11 @@ h2.title {
 	font: 1.8em, "BBH Sans Bogle", sans-serif;
 }
 
+div {
+	width: 950px;
+	margin: 0 auto;
+}
+
 p {
     color: white;
 }
