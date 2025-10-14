@@ -4,6 +4,15 @@
 # - 000000
 # - EEEEEE
 */
+
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
 body {
 	font-family: "Roboto", "BBH Sans Bogle", sans-serif;
     background: black;
