@@ -70,14 +70,14 @@ header h1, header h2, footer h2 {
 
 .column-narrow {
 	width: 30%; 
-	float left; 
+	float: left; 
 	padding-right: 3%; 
-	min-height 175px;
+	min-height: 175px;
 }
 
 .column-wide {
 	width: 70%; 
-	float left; 
+	float: left; 
 	min-height: 225px;
 }
 
