@@ -80,7 +80,7 @@ header h1, header h2, footer h2 {
 	min-height 175px;
 }
 
-column-wide {
+.column-wide {
 	width: 70%; 
 	float left; 
 	min-height: 225px;
